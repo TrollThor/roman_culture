@@ -37,3 +37,6 @@
   --roman events
     ~\events\roman_events.txt
   --add new events
+  
+--Add descriptions
+  ~\localisation
