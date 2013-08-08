@@ -17,6 +17,8 @@
   ++added religion head - character that reforms hellenic religion
   --consider religion modifiers
   --consider religion window
+  --rework religion conversion decisions
+    ~\decisions\conversion_decisions.txt
   --consider religion colors
 
 --Refine Casus Belli
