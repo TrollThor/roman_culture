@@ -1,0 +1,15 @@
+-+Change tittles creation conditions
+  ++Kingdom of Italy
+  ++Empire of Italy
+  --Roman Empire
+  
+--Rework religion icons
+
+--Rework holy sites
+
+-+Refine Casus Belli
+  ++Latinum
+
+--Add some decisions
+
+--Add some events
