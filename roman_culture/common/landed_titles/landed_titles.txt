@@ -7358,7 +7358,10 @@ e_italy = {
 		
 		# Creation/usurpation trigger
 		allow = {
-			religion_group = christian
+			OR ={
+				religion_group = christian
+				religion_group = hellenic_group
+			}
 		}
 		
 		christian = 1000 # Crusade target weight
@@ -8028,6 +8031,7 @@ e_italy = {
 					holy_site = aztec
 					holy_site = aztec_reformed
 					holy_site = hellenic_pagan
+					holy_site = hellenic_pagan_reformed					
 					holy_site = pagan
 					used_for_dynasty_names = no
 				}
@@ -8165,7 +8169,10 @@ e_italy = {
 	}
 	
 	allow = {
-		culture=italian
+		OR = {
+		culture=italian	
+		culture=roman		
+		}
 		has_landed_title=k_italy
 		has_landed_title=k_sicily
 		any_demesne_title = {
