@@ -29,5 +29,6 @@
     ~\decisions\minor_decisions.txt
   --vassal decisions
     ~\decisions\vassal_decisions.txt
+  --add new decisions
 
 --Add some events
