@@ -7,9 +7,15 @@
 
 --Rework holy sites
   ++Latinum
+  --Alexandria
+  --Corinth (changed)
+  --Athenes
+  --Ephesus (changed)
 
---Rework religion reformation
+-+Rework religion reformation
   ++added simple reformation
+  ++added religion head - character that reforms hellenic religion
+  --consider religion window
 
 --Refine Casus Belli
 
