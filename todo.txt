@@ -2,6 +2,7 @@
   ++Kingdom of Italy
   ++Empire of Italy
   --Roman Empire
+    ~\decisions\realm_decisions.txt
   
 --Rework religion icons
 
@@ -17,12 +18,14 @@
   ++added religion head - character that reforms hellenic religion
   --consider religion modifiers
   --consider religion window
-  --rework religion conversion decisions
+  --refine religion conversion decisions
     ~\decisions\conversion_decisions.txt
   --consider religion colors
 
 --Refine Casus Belli
 
---Add some decisions
+--Add or rework some decisions
+  --minor decisions
+    ~\decisions\minor_decisions.txt
 
 --Add some events
