@@ -31,4 +31,7 @@
     ~\decisions\vassal_decisions.txt
   --add new decisions
 
---Add some events
+--Add or rework some events
+  --roman events
+    ~\events\roman_events.txt
+  --add new events
