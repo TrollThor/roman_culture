@@ -8,17 +8,19 @@
 ==========================================
 
 ++Change tittles creation conditions
-  ++Kingdom of Italy
-  ++Empire of Italy
-  ++Roman Empire
-    ~\decisions\realm_decisions.txt
+  ~\common\landed_titles\landed_titles.txt
+    ++Kingdom of Italy
+    ++Empire of Italy
+    ++Roman Empire
+      ~\decisions\realm_decisions.txt
     
 --Consider cultural building and retinue
   ~\common\buildings\00_CastleCulture.txt
 
 --Rework culture
-  --consider culture modifiers
-  --refine culture names and values
+  ~\common\cultures\00_cultures.txt
+    --consider culture modifiers
+    --refine culture names and values
 
 --Rework religion icons
   --rework normal icons
@@ -40,13 +42,16 @@
   ++add religion head - character that reforms hellenic religion
   --change religion names after reformation
   --consider religion modifiers
+    ~\common\religions\00_religions.txt
   --consider religion window
     ~\common\landed_titles\landed_titles.txt
   --refine religion conversion decisions
     ~\decisions\conversion_decisions.txt
   --consider religion colors
+    ~\common\religions\00_religions.txt
 
 --Refine Casus Belli
+  ~\common\cb_types\00_cb_types.txt
 
 --Add or rework some decisions
   --minor decisions
