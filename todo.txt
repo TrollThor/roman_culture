@@ -35,8 +35,8 @@
     --Edessa (changed on Ephesus)
 
 --Rework religion reformation
-  ++added simple reformation
-  ++added religion head - character that reforms hellenic religion
+  ++add simple reformation
+  ++add religion head - character that reforms hellenic religion
   --change religion names after reformation
   --consider religion modifiers
   --consider religion window
