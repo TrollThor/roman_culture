@@ -10,11 +10,12 @@
 
 --Rework holy sites
   ~\common\landed_titles\landed_titles.txt
-    ++Latinum
-    ++Alexandria
-    --Corinth (changed)
-    --Athenes
-    --Ephesus (changed)
+    +-Latinum (Roma)
+      !!need to change to another barony because of potential conflict with Restoration of Roman Empire
+    ++Alexandria (Alexandria)
+    --Lampsakos (changed on Corinth)
+    ++Athenes (Piraeaus)
+    --Edessa (changed on Ephesus)
 
 --Rework religion reformation
   ++added simple reformation
