@@ -14,6 +14,7 @@
     ~\decisions\realm_decisions.txt
     
 --Consider cultural building and retinue
+  ~\common\buildings\00_CastleCulture.txt
 
 --Rework culture
   --consider culture modifiers
