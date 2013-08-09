@@ -4,7 +4,7 @@ CKII Roman Culture, Religions and Titles Mod
 Version v0.1-alpha
 ==================
 Added 3 new hellenic religon icons (hellenic heresy, hellenic reformed, hellenic reformed heresy)
-Added new religion group: hellenic pagan
+Added new religion group: Hellenic group
 Reworked Roman culture
 
 Version v0.2-alpha
