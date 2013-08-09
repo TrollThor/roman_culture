@@ -10,10 +10,11 @@ Reworked Roman culture
 Version v0.2-alpha
 ==================
 Changed tittles creation conditions for Kingdom of Italy and Empire of Italy
-Reworked holy site of Latinum
+Reworked holy site for Latinum
 Added simple reformation
 Added religion head - character that reforms hellenic religion
 
 Version v0.3-alpha
 ==================
 Changed tittle creation conditions for Roman Empire
+Reworked holy sites for Alexandria and Athenes
