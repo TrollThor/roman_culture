@@ -30,7 +30,7 @@
 
 --Rework holy sites
   ~\common\landed_titles\landed_titles.txt
-    +-Latinum (Roma)
+    +-Latium (Roma)
       !!need to change to another barony because of potential conflict with Restoration of Roman Empire
     ++Alexandria (Alexandria)
     --Lampsakos (changed on Corinth)
