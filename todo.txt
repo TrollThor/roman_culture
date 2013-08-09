@@ -1,8 +1,10 @@
-Denotations
-++ completed section
-+- completed section but needs some rework
--+ approximately half completed section
+==========================================
+                Denotations
+++ section completed
++- section completed but needs some rework
+-+ section completed approximately by half
 -- very few or no changes at all
+==========================================
 
 ++Change tittles creation conditions
   ++Kingdom of Italy
@@ -12,7 +14,15 @@ Denotations
     
 --Consider cultural building and retinue
 
+--Rework culture
+  --consider culture modifiers
+  --refine culture names and values
+
 --Rework religion icons
+  --rework normal icons
+    ~\gfx\interface\religion_icon_strip.dds
+  --rework small icons
+    ~\gfx\interface\religion_icon_strip_small.dds
 
 --Rework holy sites
   ~\common\landed_titles\landed_titles.txt
