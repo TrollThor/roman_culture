@@ -11,7 +11,7 @@
 --Rework holy sites
   ~/common/landed_titles/landed_titles.txt
     ++Latinum
-    --Alexandria
+    ++Alexandria
     --Corinth (changed)
     --Athenes
     --Ephesus (changed)
