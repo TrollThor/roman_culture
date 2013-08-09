@@ -1,2 +1,2 @@
-CKII Roman Culture, Religions and Titles Mod
-============================================
+Crusader Kings II Roman Culture, Religions and Titles Mod
+=========================================================
