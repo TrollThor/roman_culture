@@ -4,6 +4,7 @@
 +- section completed but needs some rework
 -+ section completed approximately by half
 -- very few or no changes at all
+!! neccesary changes
 ==========================================
 
 ++Change tittles creation conditions
