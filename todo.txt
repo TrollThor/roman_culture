@@ -1,3 +1,9 @@
+Denotations
+++ completed section
++- completed section but needs some rework
+-+ approximately half completed section
+-- very few or no changes at all
+
 ++Change tittles creation conditions
   ++Kingdom of Italy
   ++Empire of Italy
