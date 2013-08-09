@@ -1,7 +1,7 @@
--+Change tittles creation conditions
+++Change tittles creation conditions
   ++Kingdom of Italy
   ++Empire of Italy
-  --Roman Empire
+  ++Roman Empire
     ~\decisions\realm_decisions.txt
     
 --Consider cultural building and retinue
