@@ -20,7 +20,10 @@
   --add new events
 
 --Consider cultural building and retinue
-  ~\common\buildings\00_CastleCulture.txt
+  --add cultural buildings
+    ~\common\buildings\00_CastleCulture.txt
+  --add cultural retinue
+    ~\common\retinue_subunits\00_retinue_subunits.txt
 
 --Rework culture
   ~\common\cultures\00_cultures.txt
