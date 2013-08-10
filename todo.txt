@@ -25,12 +25,12 @@
   +-add cultural retinue
     ~\common\retinue_subunits\00_retinue_subunits.txt
 
--+Rework culture
++-Rework culture
   ~\common\cultures\00_cultures.txt
-    +-consider culture modifiers
-    +-refine culture names and values
+    +-consider culture values
+    +-refine culture names
   ~\common\dynasties\00_dynasties.txt
-    --refine culture dynasties
+    +-refine culture dynasties
 
 --Rework religion icons
   --rework normal icons
