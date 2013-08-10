@@ -13,7 +13,12 @@
     ++Empire of Italy
     ++Roman Empire
       ~\decisions\realm_decisions.txt
-    
+
+--Add or rework some events
+  --rework roman events
+    ~\events\roman_events.txt
+  --add new events
+
 --Consider cultural building and retinue
   ~\common\buildings\00_CastleCulture.txt
 
@@ -60,10 +65,5 @@
     ~\decisions\vassal_decisions.txt
   --add new decisions
 
---Add or rework some events
-  --roman events
-    ~\events\roman_events.txt
-  --add new events
-  
 --Add descriptions
   ~\localisation
