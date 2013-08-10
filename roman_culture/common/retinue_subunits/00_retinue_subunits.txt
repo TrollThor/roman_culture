@@ -307,3 +307,20 @@ RETTYPE_CUL_NAHUA =
 		heavy_infantry_offensive = 0.3
 	}
 }
+
+RETTYPE_CUL_ROMAN = 
+{
+	first_type = 1
+	first_amount = 400
+	
+	second_type = 3
+	second_amount = 100
+	
+	culture = roman
+	
+	modifier = {
+		heavy_infantry_offensive = 0.3
+		heavy_infantry_defensive = 0.3
+		heavy_infantry_morale = 0.7
+	}
+}

@@ -504,7 +504,8 @@ latin = {
 	}
 	roman = {
 		graphical_culture = southerngfx
-		second_graphical_culture = occitangfx # Fallback type
+		second_graphical_culture = occitangfx # Fallback type (portrait background?)
+		graphical_unit_culture = western
 		
 		color = { 0.8 0.7 0.2 }
 
@@ -518,18 +519,40 @@ latin = {
 			Paulinus Paulus_Paul Petronius Philip_Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus_Roman Romulus Rufinus Rutilius Sabinianus
 			Saturninus Sempronius Septimius Sergius_Sergius Severinus Severus Sextus Symmachus_Symmachus Tacitus Theodosius_Theodosios Tiberius_Tiberius
 			Titius Titus Trajan_Trajan Urbanus Valens Valentinian Valerian Valerius_Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
+			Aemilianus Agapetus Amadeus Anacletus Anthemius Antoninus_Anthony Appianus Arcadius_Arkadios Aurelianus_Aurelian Alethius Alexius_Alexis
+			Antonius_Anthony Balbinus Basiliscus Benignus_benignus Bonifacius Basilius Caesarius_Caesarius Caesarinus Callistus Cassiodorus Claudianus Claudius_Claudius
+			Clemens_Clemens Coelestinus Constans Constantinus_Constantine Damianus_Damian Daniel_Daniel Diadumenianus Diocletianus Dionysius_Dionysus
+			Desiderius_Desiderius Domitianus Donus Eligius Evangelus Eugenius_Eugene Eusebius Euphemius Eutychianus Evaristus Felix_Felix Flavianus Florianus_Florian
+			Florentius Faustus Gabriel_Gabriel Gelasius Genialis Gennadius Georgius_George Germanus_German Glycerius Gordianus Gratianus Gregorius_Gregory
+			Hadrianus_Adrian Herennius Herodianus Hilarius Hostilianus Hormisdas Heracles_Heracles Jacobus_Jacob Julius_Julius Julianus_Julian Justus Justinus
+			Justinianus Jovianus Josephus_Joseph Innocentius_Innocentius Iohannes_John Laurentius_Laurence Leontius Linus Lucas_Lucas Lucius_Lucius Lucianus
+			Majorian_Majorian Marcellus_Marcel Marcus_Mark Marcianus Martialis Martinus_Martin Matthias_Matthew Maxentius Maximianus Maximilianus_Maximilian
+			Mercurius_Mercurius Nicolaus_Nicholas Nicomachus Numerianus Petrus_Peter Phillipus_Philip Priscillianus Peregrinus_Pilgrim Pertinax Patroinus Olybrius Orestes
+			Quintus_Quintius Quirinus Renatus Romaeus Regilius Regulus Salvator_Salvador Severinus_Savarin Sidonius Silvester_Silvester Silvius Silverius Simplicius
+			Simplicianus Stephanus_Stephen Symmachus Severus_Severus Silvanus Suprius Theodorus_Theodore Theophilus_Theophilos Tiberius Traianus_Traianus
+			Tribonianus Urbanus_Urban Ursus Vetranio Valentinianus Valentinus_Valentin Valerianus Victor_Victor Victorinus_Victorinus Zeno_Zenon Zephyrinus Zosimus
 		}
 		female_names = {
-			Aelia Agrippina Antonia_Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia_Claudia Clementia Constantia_Constantia
-			Constantina_Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
-			Gordiana Hadriana_Adriana Helvia Hilara Honoria Hortensia Julia_Julia Juliana_Juliana Junia Justa Justina_Justina Justiniana Licinia Livia Livilla Lucilla
-			Magnia Magnilla Marcella Marcia_Marcia Marciana Marina Martina_Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
-			Octavia Palatina Paula_Paula Paulina_Paulina Petronella Petronia_Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria_Pulcheria
-			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria_Valeria
-			Verina Victoria Vigilantia Viviana_Viviana
+			Aelia Agrippina Antonia_Antonia Antonina Aquilia AureliaCaecilia Caesaris Candida Cassia Claudia_Claudia Clementia Constantia_Constantia
+			Constantina_Constantina Cornelia Crispina Dominica Domitiana Domna Domnina DrusillaFausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria Gordiana
+			Hadriana_Adriana Helvia Hilara Honoria Hortensia Julia_Julia Juliana_Juliana Junia Justa Justina_Justina Justiniana Licinia Livia Livilla Lucilla Magnia Magnilla Marcella
+			Marcia_Marcia Marciana Marina Martina_Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela Octavia Palatina Paula_Paula
+			Paulina_Paulina Petronella Petronia_Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria_Pulcheria Rusticiana Sabina Sallustia Salonina
+			Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria_Valeria Verina Victoria Vigilantia Viviana_Viviana	
+			Amanda Anatolia Angela Barbara_Barbara Beatrix_Beatrice Benedicta_Benedicta Benigna Charito Christiana_Christina Clara_Clara Claritia Claudia Claudiana
+			Clementina Constantia_Constance Constantina Delphina Desiderata Desideria Dionysia Diana Eudocia Eusebia Eutropia Felicia_Felicia Feliciana Felina Felicitas
+			Fides_Fides Florina Florentia Florentina Francisca Fortunata Galla Herennia Honorata Honorina Helena_Helen Juliana_Julianne Laura Lavinia Leocadia Leontia
+			Liberia Lucia_Lucia Maura Marcia Marcellina Maria_Maria Maximia Maxmilla Maxmillia Melania Monica_Monica Modesta Narcissa Natalia Oliva Orestilla Otacilia
+			Patricia Paulina_Pauline Prisca Prudentia Petiliana Regina Renata Romana Rosalia Salvatrix Seraphina Sabinia Sidonia Salonia Silvia_Sylvia Sybilla Tatiana_Tatiana
+			Thermantia Tranquillina Ursa Ursula_Ursula Valeria Verena Veronica_Veronica Vibia Virginia Victorina Viviana Zenobia_Zenobia
 		}
-		from_dynasty_prefix = "of "
+		
+		from_dynasty_prefix = "ex "
+		
+		bastard_dynasty_prefix = "Spurius"
+		#bastard_dynasty_prefix = "Nothus"
 
+		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
 		mat_grf_name_chance = 0
@@ -540,9 +563,10 @@ latin = {
 		mat_grm_name_chance = 0
 		mother_name_chance = 30
 		
+		dynasty_title_names = yes
+		#founder_named_dynasties = yes
+		
 		disinherit_from_blinding = yes
-
-		modifier = default_culture_modifier
 	}
 }
 
