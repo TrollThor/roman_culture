@@ -7,12 +7,12 @@ Version v0.1-alpha
 ==================
 Added 3 new hellenic religon icons (hellenic heresy, hellenic reformed, hellenic reformed heresy)
 Added new religion group: Hellenic group
-Reworked Roman culture
+Reworked roman culture
 
 Version v0.2-alpha
 ==================
 Changed titles creation conditions for Kingdom of Italy and Empire of Italy
-Reworked holy site for Latinum
+Reworked holy site for Latium
 Added simple reformation
 Added religion head - character that reforms hellenic religion
 
@@ -21,3 +21,6 @@ Version v0.3-alpha
 Changed title creation conditions for Roman Empire
 Reworked holy sites for Alexandria and Athenes
 Added cultural buildings and retinue
+Refined roman culture values
+Added new roman culture names
+Added new roman culture dynasties
