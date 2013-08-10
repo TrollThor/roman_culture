@@ -18,3 +18,4 @@ Version v0.3-alpha
 ==================
 Changed title creation conditions for Roman Empire
 Reworked holy sites for Alexandria and Athenes
+Added cultural buildings and retinue
